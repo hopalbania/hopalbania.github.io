@@ -67,8 +67,8 @@ Faqja e repos: https://hopalbania.github.io
 ## Udhëzues
 
 - [Qira në Tiranë: çmimet dhe si të zgjedhësh](https://hop-qira-tirane.netlify.app/)
-- [Makina të përdorura: lista e kontrollit](https://hop-makina.pages.dev/)
-- [Qira në bregdet: Durrës, Vlorë, Sarandë](https://hop-albania.gitlab.io/qira-bregdet/)
+- [Makina të përdorura: lista e kontrollit](https://hop-makina-te-perdorura.netlify.app/)
+- [Qira në bregdet: Durrës, Vlorë, Sarandë](https://hop-qira-bregdet.netlify.app/)
 
 ## Kontakt
 
